@@ -78,11 +78,13 @@ API文档显示工具：Swagger UI
 代码生成：快速生成对单表的增删改查
 服务器信息：查看服务器的基本信息
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/114104_687a6e66_4975925.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/114204_a67554ce_4975925.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/114227_770eabf9_4975925.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/114309_d0e85883_4975925.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/114350_30eaba3c_4975925.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/114419_f591bef9_4975925.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/114506_bfa372e0_4975925.png "屏幕截图.png")
+![image](https://user-images.githubusercontent.com/63382018/113399576-0408cc00-93d3-11eb-934f-5742d09765b0.png)
+![image](https://user-images.githubusercontent.com/63382018/113399598-0e2aca80-93d3-11eb-950c-f92c2dbda989.png)
+![image](https://user-images.githubusercontent.com/63382018/113399610-12ef7e80-93d3-11eb-83d1-6c3580eb7207.png)
+![image](https://user-images.githubusercontent.com/63382018/113399628-1a168c80-93d3-11eb-8d1d-953a9973b751.png)
+![image](https://user-images.githubusercontent.com/63382018/113399650-213d9a80-93d3-11eb-93a4-67292d076fed.png)
+![image](https://user-images.githubusercontent.com/63382018/113399661-239ff480-93d3-11eb-8679-17620983abcc.png)
+![image](https://user-images.githubusercontent.com/63382018/113399669-269ae500-93d3-11eb-8f2a-4bcd20703d4d.png)
+![image](https://user-images.githubusercontent.com/63382018/113399720-416d5980-93d3-11eb-9a70-d69b4f6af3ec.png)
+
 
