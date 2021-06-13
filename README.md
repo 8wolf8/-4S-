@@ -89,6 +89,7 @@ API文档显示工具：Swagger UI
 ![image](https://user-images.githubusercontent.com/63382018/121799209-5a10b000-cc5d-11eb-9c6b-6b2e59a6b7bc.png)
 ![image](https://user-images.githubusercontent.com/63382018/121799211-5c730a00-cc5d-11eb-8f3c-2acf431bd9a7.png)
 ![image](https://user-images.githubusercontent.com/63382018/121799212-5f6dfa80-cc5d-11eb-8569-9eb331b50289.png)
+![image](https://user-images.githubusercontent.com/63382018/121799352-326e1780-cc5e-11eb-9cbc-165f924707d9.png)
 
 
 
