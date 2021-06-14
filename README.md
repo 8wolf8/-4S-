@@ -85,7 +85,7 @@ API文档显示工具：Swagger UI
 1.华为云，2核4G，40G+100G，win系统+iis部署+mysql（.net core可以自由选择win/Linux），网速5M。
 2.无出现不稳定情况，cpu和内存加载正常，已经优化好查询和加载的查询量，查询和查询bug导致的cup暴涨和内存暴涨的问题已经全面优化。
 3.外加小程序api对接，在50人使用+上千的小程序api链接，毫无压力运转。
-4.数据库备份策略和win还原策略全面完善。实现每天自动备份数据库，win还原只需30分钟。
+4.数据库备份策略和win还原策略全面完善。实现每天自动备份数据库，win还原只需30分钟,，灾难性还原只需1小时内。
 
 ![image](https://user-images.githubusercontent.com/63382018/121799192-47967680-cc5d-11eb-9f24-a445ae120e83.png)
 ![image](https://user-images.githubusercontent.com/63382018/121799195-4c5b2a80-cc5d-11eb-886f-4567a3021213.png)
