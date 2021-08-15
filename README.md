@@ -3,6 +3,7 @@
 # 多企业多门店的网页+公众号+车主小程序+客户端小程序（行业领先功能哦~）
 # 结合了8年的洗车美容维修店实施经验所得的各种人性化操作系统，实用性和灵活性非常强。
 # 出售源码不是几千几万就可以，只接受面谈，可以单独购买账号使用，运转行性能已经全部优化。
+# 批发商生产商erp管理开发中，可以做到全自动采购管理，（应用场景：批发商开销售单，门店saas系统自动生成单据只需手动点击入库即可）
 
 1.消费开单：①项目单操作简单，有随意项目和随进随出，资料都有快捷新增。②售卡/扣次卡/充值。③接车单对接车流程的管理。④虚拟打印
 
@@ -97,6 +98,8 @@ API文档显示工具：Swagger UI
 ![image](https://user-images.githubusercontent.com/63382018/121799211-5c730a00-cc5d-11eb-8f3c-2acf431bd9a7.png)
 ![image](https://user-images.githubusercontent.com/63382018/121799212-5f6dfa80-cc5d-11eb-8569-9eb331b50289.png)
 ![image](https://user-images.githubusercontent.com/63382018/121799352-326e1780-cc5e-11eb-9cbc-165f924707d9.png)
+![image](https://user-images.githubusercontent.com/63382018/129467375-7d4ca269-2a36-4462-b3fd-d33a10215887.png)
+![image](https://user-images.githubusercontent.com/63382018/129467378-45cc4037-7bb6-4e2c-ba7a-d4c882a0d1e7.png)
 
 
 
