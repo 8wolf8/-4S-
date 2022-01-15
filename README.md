@@ -1,11 +1,12 @@
 # --开源项目--
 # 感谢yisha的开源，感谢U1开源团队期续更新。遵循BSD开源协议
+# 联系QQ846270709 
 
 展示版网站:http://139.196.80.127:8081,账号：test，密码：567tyu.
+![image](https://user-images.githubusercontent.com/63382018/149609012-3e2d790c-678e-475b-96a3-a6cc7f5c19d5.png)
+![QQ图片20211223101652 (1)](https://user-images.githubusercontent.com/63382018/149609014-0bc54dfb-0fc5-45f9-9d19-531487d67762.jpg)
 
 
-![输入图片说明](image.png)
-![输入图片说明](QQ%E5%9B%BE%E7%89%8720211223101652.jpg)
 
 # 系统亮点展示：
 1.简易管理+全面的财务明细和报表  
@@ -60,8 +61,9 @@ API文档显示工具：Swagger UI
 2.无出现不稳定情况，cpu和内存加载正常，已经优化好查询和加载的查询量，查询操作导致的cup和内存暴涨的问题已经全面优化。  
 3.外加小程序api对接，在50人使用+上千的小程序api链接，毫无压力运转。  
 4.数据库备份策略和win还原策略全面完善。实现每天自动备份数据库，win还原只需30分钟，灾难性还原只需1小时内。  
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220115121105.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220115121131.png)
+![微信截图_20220115121105](https://user-images.githubusercontent.com/63382018/149609018-469228df-9f64-4b11-bb4d-8b0316d43c96.png)
+![微信截图_20220115121131](https://user-images.githubusercontent.com/63382018/149609020-20b6a242-d7a6-41cc-9ab8-e3b077b7341a.png)
+
 
 
 #  BSD协议
