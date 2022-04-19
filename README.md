@@ -2,7 +2,7 @@
 # 感谢yisha的开源，感谢U1开源团队期续更新。遵循BSD开源协议
 # 联系QQ846270709 
 
-展示版网站:http://139.196.80.127:8081,账号：test，密码：567tyu.
+展示版网站:http://139.196.80.127:8081,账号：test，密码：567tyu
 ![image](https://user-images.githubusercontent.com/63382018/149609012-3e2d790c-678e-475b-96a3-a6cc7f5c19d5.png)
 ![QQ图片20211223101652 (1)](https://user-images.githubusercontent.com/63382018/149609014-0bc54dfb-0fc5-45f9-9d19-531487d67762.jpg)
 
